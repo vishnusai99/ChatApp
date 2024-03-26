@@ -1,0 +1,17 @@
+{
+  "additionalUserInfo": { "isNewUser": false },
+  "user": {
+    "displayName": null,
+    "email": "vishnu@gmail.com",
+    "emailVerified": false,
+    "isAnonymous": false,
+    "metadata": [],
+    "multiFactor": [],
+    "phoneNumber": null,
+    "photoURL": null,
+    "providerData": [],
+    "providerId": "firebase",
+    "tenantId": null,
+    "uid": "51BjZcXDd7d5bAgWhxQDMgjTsau1"
+  }
+}
